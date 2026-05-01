@@ -1,0 +1,9 @@
+---
+!ruby/object:PluginManager::Config
+name: CaptureChain
+author:
+  - Ota
+version: 1.0.0
+deps: []
+added_files:
+  - Data/configs/capturechain_config.json
