@@ -27,11 +27,11 @@ The plugin is lightweight, automatic, and configurable through JSON.
 
 ## Installation
 
-0. Download [Discord.psdkplug](https://github.com/Otaku17/CaptureChaine/releases)
+0. Download [CaptureChain.psdkplug](https://github.com/Otaku17/CaptureChaine/releases)
 
-1. Place the plugin in your project's `scripts` folder.
+2. Place the plugin in your project's `scripts` folder.
 
-2. From the root of your project, load or reload plugins:
+3. From the root of your project, load or reload plugins:
 
 ```bash
 .\psdk --util=plugin load
