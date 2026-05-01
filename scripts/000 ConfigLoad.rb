@@ -1,10 +1,4 @@
-module Configs
-  KEY_TRANSLATIONS[:storage_key] = :storage_key
-  KEY_TRANSLATIONS[:stat_count] = :stat_count
-  KEY_TRANSLATIONS[:bonus_table] = :bonus_table
-  KEY_TRANSLATIONS[:break_on_player_flee] = :break_on_player_flee
-  KEY_TRANSLATIONS[:break_on_failed_battle_against_chained_species] = :break_on_failed_battle_against_chained_species
-  
+module Configs  
   module Project
     class CaptureChain
       # Storage key used in the save user data hash.
